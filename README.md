@@ -1,6 +1,4 @@
 # SCORES
-Visual demo example for our paper "SCORES: Shape Composition with Recursive Substructure Priors"
-
 This is an Pytorch visual demo of the paper "[SCORES: Shape Composition with Recursive Substructure Priors](https://kevinkaixu.net/projects/scores.html)". This is a neural network which learns structure fusion for 3D shape composition
 
 ## Usage
